@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/Chaim12345/go-openai"
+	"github.com/Chaim12345/go-openai/internal/test/checks"
 )
 
 // TestGetEngine Tests the retrieve engine endpoint of the API using the mocked server.
