@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Chaim12345/go-openai"
-	"github.com/Chaim12345/go-openai/internal/test/checks"
+	"github.com/sashabaranov/go-openai"
+	"github.com/sashabaranov/go-openai/internal/test/checks"
 )
 
 func TestCompletionsStreamWrongModel(t *testing.T) {
